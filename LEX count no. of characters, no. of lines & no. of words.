@@ -33,17 +33,6 @@ fclose(yyin);
 
 OUTPUT:
 
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>set path=C:\Program Files\GnuWin32\bin
-
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>flex lex21.l.txt
-
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>set path=C:\MinGW\bin
-
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>gcc lex.yy.c
-
-C:\Users\GUNA VARSHA\OneDrive\Desktop\LEX Compiler Design>a.exe
-lex21.c
-^Z
 Number of characters = 8
 Number of words = 1
 Number of lines = 1
